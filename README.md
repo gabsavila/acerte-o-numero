@@ -38,7 +38,7 @@ Este é um jogo web desenvolvido com HTML5, CSS3 e JavaScript vanilla. O jogo of
 
 ## 📁 Estrutura do Projeto
 
-## 📐 [Ver Wireframe](https://gabsavila.github.io/acerte-o-numero/wireframe.html/)
+## 📐 [Ver Wireframe](https://gabsavila.github.io/acerte-o-numero/wireframe.html)
 
 ```
 📦 acerte-o-numero/
