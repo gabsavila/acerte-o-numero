@@ -2,7 +2,7 @@
 
 Um jogo interativo e responsivo onde o objetivo é adivinhar um número secreto entre 1 e 100, com sistema de dicas "quente" e "frio".
 
-## 🚀 [Jogar Agora]([https://SEU_USUARIO.github.io/SEU_REPOSITORIO/](https://github.com/gabsavila/acerte-o-numero/))
+## 🚀 [Jogar Agora](https://github.com/gabsavila/acerte-o-numero/)
 
 ## 📋 Sobre o Projeto
 
