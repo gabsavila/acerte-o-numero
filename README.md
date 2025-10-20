@@ -2,7 +2,7 @@
 
 Um jogo interativo e responsivo onde o objetivo é adivinhar um número secreto entre 1 e 100, com sistema de dicas "quente" e "frio".
 
-## 🚀 [Jogar Agora](https://github.com/gabsavila/acerte-o-numero/)
+## 🚀 [Jogar Agora](https://gabsavila.github.io/acerte-o-numero/)
 
 ## 📋 Sobre o Projeto
 
@@ -77,25 +77,6 @@ python -m http.server 8000
 http://localhost:8000
 ```
 
-### Opção 2: Live Server (VS Code)
-1. Instale a extensão "Live Server"
-2. Clique com botão direito em `index.html`
-3. Selecione "Open with Live Server"
-
-### Opção 3: Abrir Diretamente
-- Simplesmente abra o arquivo `index.html` no seu navegador
-
-## 🌐 Deploy no GitHub Pages
-
-### Passo a Passo:
-
-1. **Criar Repositório no GitHub**
-2. **Fazer Upload dos Arquivos**
-3. **Ativar GitHub Pages**
-4. **Acessar o Site Online**
-
-[Ver guia completo de deploy →](DEPLOY_GUIDE.md)
-
 ## 📊 Funcionalidades Técnicas
 
 ### Validações
@@ -114,45 +95,3 @@ http://localhost:8000
 - ✅ Código otimizado
 - ✅ Sem dependências externas
 - ✅ Compatível com todos os navegadores modernos
-
-## 🎯 Roadmap Futuro
-
-- [ ] 🔊 Efeitos sonoros
-- [ ] 🏆 Sistema de pontuação
-- [ ] 📈 Estatísticas de jogos
-- [ ] 🌙 Modo escuro
-- [ ] 🌍 Múltiplos idiomas
-- [ ] 👥 Modo multiplayer
-- [ ] 📱 PWA (Progressive Web App)
-
-## 🤝 Contribuindo
-
-Contribuições são sempre bem-vindas! Para contribuir:
-
-1. **Fork** o projeto
-2. **Crie** uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. **Commit** suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** para a branch (`git push origin feature/AmazingFeature`)
-5. **Abra** um Pull Request
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 👨‍💻 Autor
-
-**Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)
-
-## 🙏 Agradecimentos
-
-- MaratonaTech pela inspiração
-- Comunidade de desenvolvedores
-- Todos que testaram e deram feedback
-
----
-
-⭐ **Gostou do projeto? Deixe uma estrela!** ⭐
-
-🎮 **[Jogar Agora](https://SEU_USUARIO.github.io/SEU_REPOSITORIO/)** | 📋 **[Ver Wireframe](wireframe.html)** | 🐛 **[Reportar Bug](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/issues)**
