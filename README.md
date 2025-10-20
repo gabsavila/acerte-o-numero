@@ -38,6 +38,8 @@ Este é um jogo web desenvolvido com HTML5, CSS3 e JavaScript vanilla. O jogo of
 
 ## 📁 Estrutura do Projeto
 
+## 📐 [Ver Wireframe](https://gabsavila.github.io/wireframe.html/)
+
 ```
 📦 acerte-o-numero/
 ├── 📄 index.html                   # Página principal do jogo
@@ -81,6 +83,4 @@ Este é um jogo web desenvolvido com HTML5, CSS3 e JavaScript vanilla. O jogo of
 - ✅ Código otimizado
 - ✅ Sem dependências externas
 - ✅ Compatível com todos os navegadores modernos
-
-## 📐 [Ver Wireframe](https://gabsavila.github.io/wireframe.html/)
 
