@@ -40,12 +40,12 @@ Este é um jogo web desenvolvido com HTML5, CSS3 e JavaScript vanilla. O jogo of
 
 ```
 📦 acerte-o-numero/
-├── 📄 index.html          # Página principal do jogo
-├── 🎨 style.css           # Estilos e design responsivo
-├── ⚡ script.js           # Lógica do jogo e interações
-├── 📐 wireframe.html      # Wireframe visual do projeto
-├── 📋 wireframe-documentado.md # Documentação do wireframe
-└── 📖 README.md           # Este arquivo
+├── 📄 index.html                   # Página principal do jogo
+├── 🎨 style.css                    # Estilos e design responsivo
+├── ⚡ script.js                    # Lógica do jogo e interações
+├── 📐 wireframe.html               # Wireframe visual do projeto
+├── 📋 wireframe-documentado.md     # Documentação do wireframe
+└── 📖 README.md                    # Este arquivo
 ```
 
 ## 🎨 Design e UX
@@ -62,20 +62,6 @@ Este é um jogo web desenvolvido com HTML5, CSS3 e JavaScript vanilla. O jogo of
 - **Tablet**: Elementos adaptados para touch
 - **Mobile**: Interface empilhada verticalmente
 
-## 🚀 Como Executar Localmente
-
-### Opção 1: Servidor Python
-```bash
-# Clone o repositório
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
-
-# Inicie um servidor local
-python -m http.server 8000
-
-# Acesse no navegador
-http://localhost:8000
-```
 
 ## 📊 Funcionalidades Técnicas
 
